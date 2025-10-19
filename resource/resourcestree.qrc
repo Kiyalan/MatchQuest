@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Lamball.png</file>
+        <file>image/Cattiva.png</file>
+        <file>image/clock.png</file>
+        <file>image/dizzy.png</file>
+        <file>image/flash.png</file>
+        <file>image/hints.png</file>
+        <file>image/quantum.png</file>
+        <file>image/shuffle.png</file>
+        <file>image/snowflake.png</file>
+    </qresource>
+</RCC>
